@@ -45,13 +45,13 @@ public class Driver {
                     return driver;
     }
 
-        public static void quitDriver() {
 
-            if(driver != null) {
+    public static void quitDriver() {
+
+        if(driver != null) {
             driver.manage().deleteAllCookies();
             driver.quit();
             driver = null;
             }
         }
-
 }
