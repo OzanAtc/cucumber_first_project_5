@@ -1,0 +1,9 @@
+utils/ConfigReader.class
+steps/TechGlobalSteps.class
+steps/Hook.class
+runners/Runner.class
+pages/PaginationPage.class
+utils/Waiter.class
+pages/TechGlobal_FrontEndPage.class
+pages/TechGlobalBasePage.class
+utils/Driver.class
